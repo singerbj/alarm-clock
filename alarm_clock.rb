@@ -1,4 +1,3 @@
-
 require 'sinatra'
 require 'json'
 require 'active_record'
